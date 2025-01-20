@@ -8,7 +8,7 @@ function fizzbuzz() {
     // Put your code here...
     for (let num=0;num<=100;num++)
     {
-        console.log(num);
+        (num%3 ==0)?  console.log('Fizz') : console.log(num);
     }
     
 }
