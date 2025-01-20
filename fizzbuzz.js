@@ -25,9 +25,9 @@ function fizzbuzz() {
         {
             console.log(num);
         }
+        // (num%3 ==0 && num%5 ==0)? console.log('FizzBuzz'):
         // (num%3 ==0)?  console.log('Fizz') : 
         // (num%5 ==0)?  console.log('Buzz') : 
-        // (num%3 ==0 && num%5 ==0)? console.log('FizzBuzz') : 
         // console.log(num);
     }
     
